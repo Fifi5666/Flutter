@@ -1,0 +1,10 @@
+^D:\JOEUN\FLUTTER\LAYOUT_WIDGET\BUILD\WINDOWS\X64\CMAKEFILES\CBF9EF9E2C1735AA1896176217A945FE\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SD:/JOEUN/Flutter/layout_widget/windows -BD:/JOEUN/Flutter/layout_widget/build/windows/x64 --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/JOEUN/Flutter/layout_widget/build/windows/x64/layout_widget.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

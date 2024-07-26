@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/basic_widget/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/basic_widget/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/basic_widget/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_application/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_application/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_application/build" />
+      <excludeFolder url="file://$MODULE_DIR$/http_app/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/http_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/http_app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/input_widget/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/input_widget/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/input_widget/build" />
+      <excludeFolder url="file://$MODULE_DIR$/layout_widget/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/layout_widget/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/layout_widget/build" />
+      <excludeFolder url="file://$MODULE_DIR$/navigation_widget/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/navigation_widget/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/navigation_widget/build" />
+      <excludeFolder url="file://$MODULE_DIR$/sample_project/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/sample_project/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/sample_project/build" />
+      <excludeFolder url="file://$MODULE_DIR$/shared_preference_app/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/shared_preference_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/shared_preference_app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/codecanyon-y55FqqNA-lamat-ultimate-online-dating-platform-video-dating-live-stream-tinder-tiktok-tango-instagram/admin/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/codecanyon-y55FqqNA-lamat-ultimate-online-dating-platform-video-dating-live-stream-tinder-tiktok-tango-instagram/admin/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/codecanyon-y55FqqNA-lamat-ultimate-online-dating-platform-video-dating-live-stream-tinder-tiktok-tango-instagram/admin/build" />
+      <excludeFolder url="file://$MODULE_DIR$/codecanyon-y55FqqNA-lamat-ultimate-online-dating-platform-video-dating-live-stream-tinder-tiktok-tango-instagram/app/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/codecanyon-y55FqqNA-lamat-ultimate-online-dating-platform-video-dating-live-stream-tinder-tiktok-tango-instagram/app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/codecanyon-y55FqqNA-lamat-ultimate-online-dating-platform-video-dating-live-stream-tinder-tiktok-tango-instagram/app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/codecanyon-y55FqqNA-lamat-ultimate-online-dating-platform-video-dating-live-stream-tinder-tiktok-tango-instagram/app/flutter_paypal-0.2.0/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/codecanyon-y55FqqNA-lamat-ultimate-online-dating-platform-video-dating-live-stream-tinder-tiktok-tango-instagram/app/flutter_paypal-0.2.0/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/codecanyon-y55FqqNA-lamat-ultimate-online-dating-platform-video-dating-live-stream-tinder-tiktok-tango-instagram/app/flutter_paypal-0.2.0/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
